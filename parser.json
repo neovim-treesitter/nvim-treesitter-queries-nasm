@@ -1,8 +1,7 @@
 {
+  "parser_version": "d1b3638d017f2a8585e26dcfc66fe1df94185e30",
   "url": "https://github.com/naclsn/tree-sitter-nasm",
   "semver": false,
-  "min_version": null,
   "lang": "nasm",
-  "location": null,
-  "max_version": null
+  "location": null
 }
